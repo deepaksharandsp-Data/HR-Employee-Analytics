@@ -1,0 +1,21 @@
+HR Employee Analytics - Business Insights
+
+1. Research & Development has the highest number of employees.
+
+2. Employee attrition is approximately 16% (237 out of 1470 employees).
+
+3. Employees working overtime are more likely to leave the company.
+
+4. Sales department has the highest average monthly income.
+
+5. Most employees are around 30 years old.
+
+6. Sales Executive is the most common job role.
+
+7. Around 60% of employees are male.
+
+8. There are no missing values in the dataset.
+
+9. Monthly income is concentrated among lower and middle salary ranges, with fewer employees earning very high salaries.
+
+10. Manager is the highest-paying job role on average.
